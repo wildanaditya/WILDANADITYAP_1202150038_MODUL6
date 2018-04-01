@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "331952899203",
+    "firebase_url": "https://wildanaditya1202150038modul6.firebaseio.com",
+    "project_id": "wildanaditya1202150038modul6",
+    "storage_bucket": "wildanaditya1202150038modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331952899203:android:39015b62733b7a66",
+        "android_client_info": {
+          "package_name": "com.wildanaditya_1202150038_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331952899203-sgs60oq7ng8o08pfpk36a893auvs7u03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wildanaditya_1202150038_modul6",
+            "certificate_hash": "e49390291858620ed6249104c6a7ecceb78419aa"
+          }
+        },
+        {
+          "client_id": "331952899203-g6v6blq52iqlf4t4ob0rvkiofst0kipb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbPEZYudW-hUa8rKXdAjGU_xUuQP-Iykw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331952899203-g6v6blq52iqlf4t4ob0rvkiofst0kipb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
